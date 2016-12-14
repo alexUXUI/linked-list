@@ -5,8 +5,12 @@ ___
 
 ## Testing
 
+1) Global install Mocha
+```
+$ npm i -g mocha
+```
 
-1) Run this command from root
+2) Run this command from root
 ```
   $ mocha
 ```
